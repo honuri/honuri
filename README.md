@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.ibb.co/DHmfWns1/be2aed1a5a0660c52f0f97c62ec3ad6c.jpg" style="border-radius:15;"  />
+<img align="right" height="200" src="https://i.ibb.co/DHmfWns1/be2aed1a5a0660c52f0f97c62ec3ad6c.jpg"  />
 
 ###
 
